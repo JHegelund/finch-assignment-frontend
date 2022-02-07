@@ -1,0 +1,15 @@
+.building-editor-container {
+    display: flex;
+    margin: 16px;
+    justify-content: center;
+}
+
+.building-editor {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.active {
+    border: 3px solid rgb(52, 160, 52);
+}
